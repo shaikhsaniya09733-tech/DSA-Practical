@@ -2,7 +2,7 @@
 
 This folder contains the original AVL Imbalance Detection program implemented using C++.
 
-## Project Topic
+## Topic
 AVL Imbalance Detection
 
 ## Files Included
@@ -12,4 +12,4 @@ AVL Imbalance Detection
 3. Flowchart
 4. Source Code
 5. Output
-6. Project Report
+6. Report
